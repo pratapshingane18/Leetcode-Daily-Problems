@@ -1,0 +1,19 @@
+class Solution {
+public:
+    int minDeletionSize(vector<string>& strs) {
+        int cnt =0;
+        int rows = strs.size();
+        int columns = strs[0].size();
+
+        for(int i =0; i < columns; i++){
+            for(int j =1; j < rows; j++){
+                if(strs[j-1][i] > strs[j][i]){
+                    cnt++;
+                    break;
+                }
+            }
+        }
+        return cnt;
+       
+    }
+};
