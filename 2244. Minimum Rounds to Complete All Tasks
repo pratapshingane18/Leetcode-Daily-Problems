@@ -1,0 +1,103 @@
+class Solution {
+public:
+ int minimumRounds(vector<int>& tasks) {
+
+     map<int,int> mp;
+
+     for(int i =0; i <tasks.size(); i++){
+         mp[tasks[i]]++;
+     }
+    int res =0;
+    for(auto x:mp){
+        if(x.second == 1){
+            return -1;
+        }
+
+        else{
+            if(x.second % 3 ==0){
+                res += x.second /3;
+            }
+            else{
+                res += x.second/3 +1;
+            }
+        }
+    }
+
+    return res;
+
+//     bool occurredOnce(vector<int>& tasks)
+// {
+//     // Sort the array
+//     sort(tasks.begin(), tasks.end());
+ 
+//     // Check for first element
+//     if (tasks[0] != tasks[1])
+//         return false;
+ 
+//     // Check for all the elements if it is different
+//     // its adjacent elements
+//     for (int i = 1; i < tasks.size() - 1; i++)
+//         if (tasks[i] != tasks[i + 1] && tasks[i] != tasks[i - 1])
+//             return false;
+ 
+//     // Check for the last element
+//     if (tasks[tasks.size() - 2] != tasks[tasks.size() - 1])
+//         return false;
+
+// return true;
+// }
+
+// vector <int> countFreq(vector<int>& tasks)
+// {
+//     int n = tasks.size();
+//     vector<int>cnt;
+//     // Mark all array elements as not visited
+//     vector<bool> visited(n, false);
+ 
+//     // Traverse through array elements and
+//     // count frequencies
+//     for (int i = 0; i < n; i++) {
+ 
+//         // Skip this element if already processed
+//         if (visited[i] == true)
+//             continue;
+ 
+//         // Count frequency
+//         int count = 1;
+//         for (int j = i + 1; j < n; j++) {
+//             if (tasks[i] == tasks[j]) {
+//                 visited[j] = true;
+//                 count++;
+//             }
+//         }
+//         cnt.push_back(count);
+//     }
+
+//     return cnt;
+// }
+
+//     int minimumRounds(vector<int>& tasks) {
+//         int finalcount =0;
+//         bool res = occurredOnce(tasks);
+//         if(res == false){
+//             return -1;
+//         }
+
+//         else{
+//             for(int i =0;i <countFreq(tasks).size();i++ ){
+//                 if(countFreq(tasks)[i] % 3 == 0){
+//                     finalcount += countFreq(tasks)[i] /3;
+//                 }
+//                 else{
+//                     finalcount += countFreq(tasks)[i] /3 +1;
+//                 }
+
+//             }
+
+//         }
+
+        
+
+//       return finalcount;  
+    }
+};
