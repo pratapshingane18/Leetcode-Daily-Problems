@@ -6,5 +6,5 @@
 05/01/2023 [452. Minimum Number of Arrows to Burst Balloons](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons) </br>
 06/01/2023 [1833. Maximum Ice Cream Bars](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/1833.%20Maximum%20Ice%20Cream%20Bars) </br>
 07/01/2023 [134. Gas Station](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/134.%20Gas%20Station) </br>
-08/01/2023 [149. Max Points on a Line](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/149.%20Max%20Points%20on%20a%20Line)
-09/01/2023 [144. Binary Tree Preorder Traversal](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/144.%20Binary%20Tree%20Preorder%20Traversal)
+08/01/2023 [149. Max Points on a Line](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/149.%20Max%20Points%20on%20a%20Line) </br>
+09/01/2023 [144. Binary Tree Preorder Traversal](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/144.%20Binary%20Tree%20Preorder%20Traversal) </br>
