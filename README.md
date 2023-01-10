@@ -8,3 +8,4 @@
 07/01/2023 [134. Gas Station](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/134.%20Gas%20Station) </br>
 08/01/2023 [149. Max Points on a Line](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/149.%20Max%20Points%20on%20a%20Line) </br>
 09/01/2023 [144. Binary Tree Preorder Traversal](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/144.%20Binary%20Tree%20Preorder%20Traversal) </br>
+10/01/2023 [100.Same Tree](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/100.%20Same%20Tree)
