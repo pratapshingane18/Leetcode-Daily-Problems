@@ -9,4 +9,5 @@
 08/01/2023 [149. Max Points on a Line](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/149.%20Max%20Points%20on%20a%20Line) </br>
 09/01/2023 [144. Binary Tree Preorder Traversal](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/144.%20Binary%20Tree%20Preorder%20Traversal) </br>
 10/01/2023 [100.Same Tree](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/100.%20Same%20Tree) </br>
+11/01/2023 [1443. Minimum Time to Collect All Apples in a Tree](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/1443.%20Minimum%20Time%20to%20Collect%20All%20Apples%20in%20a%20Tree)
 
