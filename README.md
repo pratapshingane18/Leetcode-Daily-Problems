@@ -10,4 +10,4 @@
 09/01/2023 [144. Binary Tree Preorder Traversal](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/144.%20Binary%20Tree%20Preorder%20Traversal) </br>
 10/01/2023 [100.Same Tree](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/100.%20Same%20Tree) </br>
 11/01/2023 [1443. Minimum Time to Collect All Apples in a Tree](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/1443.%20Minimum%20Time%20to%20Collect%20All%20Apples%20in%20a%20Tree) </br>
-12/01/2023 [1519. Number of Nodes in the Sub-Tree With the Same Label](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/1519.%20Number%20of%20Nodes%20in%20the%20Sub-Tree%20With%20the%20Same%20Label)
+12/01/2023 [1519. Number of Nodes in the Sub-Tree With the Same Label](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/1519.%20Number%20of%20Nodes%20in%20the%20Sub-Tree%20With%20the%20Same%20Label) </br>
