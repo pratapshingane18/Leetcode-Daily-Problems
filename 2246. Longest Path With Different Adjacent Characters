@@ -1,0 +1,76 @@
+// observation:
+// a node can have at most two longest chains from child nodes
+// if a node have more than two chains, take the longest two
+// i.e. one parent node + longest + second longest
+
+class Solution {
+public:
+    int longestPath(vector<int>& parent, string s) {
+        int ans = 0, n = parent.size();
+        vector<vector<int>> g(n);
+        // build the graph
+        for (int i = 0; i < n; i++) {
+            if (parent[i] ^ -1) {
+                g[parent[i]].push_back(i);
+            }
+        }
+        function<int(int)> dfs = [&](int u) {
+            // store the longest one and the second longest
+            int longest = 0, secondLongest = 0;
+            for (auto v : g[u]) {
+                // calculate the value first
+                int val = dfs(v);
+                // if their charachters are not same
+                if (s[u] ^ s[v]) {
+                    // then find out longest & secondLongest
+                    if (val > secondLongest) secondLongest = val;
+                    if (secondLongest > longest) swap(longest, secondLongest);
+                }
+            }
+            // update ans 
+            // the value would be longest + secondLongest + 1, i.e.
+            // the length of both chain (longest & secondLongest) + itself
+            ans = max(ans, longest + secondLongest + 1);
+            // take the longest one plus itself
+            return longest + 1;
+        };
+        // 0 must be the root
+        dfs(0);
+        return ans;
+    }
+};
+
+// Time Limit Exceeded;
+// class Solution {
+// public:
+
+// int dist[100005];
+// int ans =1;
+
+// void dfs(int src, string &s, vector<vector<int>> &adj){
+//     dist[src] =1;
+
+//     for(int node : adj[src]){
+//         dfs(node,s,adj);
+
+//         if(s[src] != s[node]){
+//             ans = max(ans, dist[src] + dist[node]);
+//             dist[src] = max(dist[src], dist[node] +1);
+//         }
+//     }
+// }
+//     int longestPath(vector<int>& parent, string s) {
+//         int n = parent.size();
+//         vector<vector<int>> adj(n);
+
+//         for(int i =1; i <n; i++){
+//             adj[parent[i]].push_back(i);  // creating the adjecency matrix
+
+//         dfs(0,s,adj);
+
+            
+//         }
+
+//         return ans;
+//     }
+// };
