@@ -12,4 +12,4 @@
 11/01/2023 [1443. Minimum Time to Collect All Apples in a Tree](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/1443.%20Minimum%20Time%20to%20Collect%20All%20Apples%20in%20a%20Tree) </br>
 12/01/2023 [1519. Number of Nodes in the Sub-Tree With the Same Label](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/1519.%20Number%20of%20Nodes%20in%20the%20Sub-Tree%20With%20the%20Same%20Label) </br>
 13/01/2023 [2246. Longest Path With Different Adjacent Characters](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/2246.%20Longest%20Path%20With%20Different%20Adjacent%20Characters)</br>
-
+14/01/2023 [1061. Lexicographically Smallest Equivalent String](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/LexicographicallySmallestEquivalentString.cpp)
