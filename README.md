@@ -14,4 +14,4 @@
 13/01/2023 [2246. Longest Path With Different Adjacent Characters](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/2246.%20Longest%20Path%20With%20Different%20Adjacent%20Characters)</br>
 14/01/2023 [1061. Lexicographically Smallest Equivalent String](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/LexicographicallySmallestEquivalentString.cpp) </br>
 15/01/2023 [2421. Number of Good Paths](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Number_of_Good_Paths.cpp) </br>
-
+1601/2023 [57. Insert Interval](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Insert_Interval.cpp)
