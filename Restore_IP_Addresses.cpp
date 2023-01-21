@@ -1,13 +1,6 @@
 class Solution {
 public:
 
-
-
-   
-
-
-
-
     vector<string> restoreIpAddresses(string s) {
 
         vector<string> res;
