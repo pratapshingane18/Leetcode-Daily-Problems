@@ -20,4 +20,5 @@
 19/01/2023 [974. Subarray Sums Divisible by K](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Subarray_Sums_Divisible_by_K.cpp) </br>
 20/01/2023 [491. Non-decreasing Subsequences](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/NondecreasingSubsequences.cpp) </br>
 21/01/2023 [93. Restore IP Addresses](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Restore_IP_Addresses.cpp) </br>
-22/01/2023 [131. Palindrome Partitioning](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Palindrome_Partitioning.cpp)
+22/01/2023 [131. Palindrome Partitioning](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Palindrome_Partitioning.cpp) <\br>
+23/01/2023 [997. Find the Town Judge](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Find_the_Town_Judge.cpp) <\br>
