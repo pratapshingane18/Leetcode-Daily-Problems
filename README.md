@@ -23,3 +23,4 @@
 22/01/2023 [131. Palindrome Partitioning](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Palindrome_Partitioning.cpp)</br>
 23/01/2023 [997. Find the Town Judge](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Find_the_Town_Judge.cpp) </br>
 24/01/2023 [909. Snakes and Ladders](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Snakes_and_Ladders.cpp) </br>
+25/01/2023 [2359. Find Closest Node to Given Two Nodes](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Find_Closest_Node_to_Given_Two_Nodes.cpp) </br>
