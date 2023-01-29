@@ -26,4 +26,5 @@
 25/01/2023 [2359. Find Closest Node to Given Two Nodes](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Find_Closest_Node_to_Given_Two_Nodes.cpp) </br>
 26/01/2023 [787. Cheapest Flights Within K Stops](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Cheapest_Flights_Within_K_Stops.cpp) </br>
 27/01/2023 [472. Concatenated Words](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Concatenated_Words.cpp)  </br>
-28/01/2023 [352. Data Stream as Disjoint Intervals](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Data%20StreamasDisjointIntervals.cpp)
+28/01/2023 [352. Data Stream as Disjoint Intervals](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Data%20StreamasDisjointIntervals.cpp)</br>
+29/0)1/2023 [460. LFU Cache](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/LFUCache.cpp)</br>
