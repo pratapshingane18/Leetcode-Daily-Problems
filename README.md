@@ -33,4 +33,5 @@
 01/02/2023 [1071. Greatest Common Divisor of Strings](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/GreatestCommonDivisorofStrings.cpp)</br>
 02/02/2023 [953. Verifying an Alien Dictionary](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/953.%20Verifying%20an%20Alien%20Dictionary)</br>
 03/02/2023 [6. Zigzag Conversion](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/ZigzagConversion.cpp)</br>
-04/02/2023 [567. Permutation in String](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/PermutationinString.cpp)
+04/02/2023 [567. Permutation in String](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/PermutationinString.cpp)</br>
+05/02/2023 [438. Find All Anagrams in a String](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/FindAllAnagramsinaString.cpp) </br>
