@@ -35,3 +35,4 @@
 03/02/2023 [6. Zigzag Conversion](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/ZigzagConversion.cpp)</br>
 04/02/2023 [567. Permutation in String](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/PermutationinString.cpp)</br>
 05/02/2023 [438. Find All Anagrams in a String](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/FindAllAnagramsinaString.cpp) </br>
+06/02/2023 [1470. Shuffle the Array](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/ShuffletheArray.cpp) </br>
