@@ -37,3 +37,4 @@
 05/02/2023 [438. Find All Anagrams in a String](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/FindAllAnagramsinaString.cpp) </br>
 06/02/2023 [1470. Shuffle the Array](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/ShuffletheArray.cpp) </br>
 07/02/2023 [904. Fruit Into Baskets](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/FruitsIntoBasket.cpp) </br>
+08/02/2023 [45. Jump Game II](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/JumpGameII.cpp) </br>
