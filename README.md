@@ -39,4 +39,5 @@
 07/02/2023 [904. Fruit Into Baskets](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/FruitsIntoBasket.cpp) </br>
 08/02/2023 [45. Jump Game II](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/JumpGameII.cpp) </br>
 09/02/2023 [2306. Naming a Company](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/NamingaCompan.cpp) </br>
-10/02/2023 [1162. As Far from Land as Possible](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/As%20Far%20from%20Land%20as%20Possible)
+10/02/2023 [1162. As Far from Land as Possible](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/As%20Far%20from%20Land%20as%20Possible)</br>
+11/02/2023 [1129. Shortest Path with Alternating Colors](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Shortest%20Path%20with%20Alternating%20Colors)</br>
