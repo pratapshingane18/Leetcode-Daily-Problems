@@ -41,3 +41,4 @@
 09/02/2023 [2306. Naming a Company](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/NamingaCompan.cpp) </br>
 10/02/2023 [1162. As Far from Land as Possible](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/As%20Far%20from%20Land%20as%20Possible)</br>
 11/02/2023 [1129. Shortest Path with Alternating Colors](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Shortest%20Path%20with%20Alternating%20Colors)</br>
+12/02/2023 [2477. Minimum Fuel Cost to Report to the Capital](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Minimum%20Fuel%20Cost%20to%20Report%20to%20the%20Capital) </br>
