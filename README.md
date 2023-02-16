@@ -45,3 +45,4 @@
 13/02/2023 [1523. Count Odd Numbers in an Interval Range](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Count%20OddNumbersinanIntervalRange.cpp) </br>
 14/02/2023 [67. Add Binary](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/AddBinary.cpp) </br>
 15/02/2023 [989. Add to Array-Form of Integer](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/AddtoArrayFormofInteger.cpp) </br>
+16/02/2023 [104. Maximum Depth of Binary Tree](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/MaximumDepthofBinaryTree.cpp) </br>
