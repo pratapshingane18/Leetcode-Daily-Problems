@@ -47,3 +47,4 @@
 15/02/2023 [989. Add to Array-Form of Integer](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/AddtoArrayFormofInteger.cpp) </br>
 16/02/2023 [104. Maximum Depth of Binary Tree](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/MaximumDepthofBinaryTree.cpp) </br>
 17/02/2023 [783. Minimum Distance Between BST Nodes](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/MinimumDistanceBetweenBSTNodes.cpp) </br>
+18/02/2023 [226. Invert Binary Tree](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/InvertBinaryTree.cpp) </br>
