@@ -49,3 +49,4 @@
 17/02/2023 [783. Minimum Distance Between BST Nodes](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/MinimumDistanceBetweenBSTNodes.cpp) </br>
 18/02/2023 [226. Invert Binary Tree](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/InvertBinaryTree.cpp) </br>
 19/02/2023 [103. Binary Tree Zigzag Level Order Traversal](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal) </br> 
+20/02/2023 [35. Search Insert Position](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/SearchInsertPosition.cpp) </br>
