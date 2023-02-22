@@ -51,3 +51,4 @@
 19/02/2023 [103. Binary Tree Zigzag Level Order Traversal](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal) </br> 
 20/02/2023 [35. Search Insert Position](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/SearchInsertPosition.cpp) </br>
 21/02/2023 [540. Single Element in a Sorted Array](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/SingleElementinaSortedArray.cpp) </br>
+22/02/2023 [1011. Capacity To Ship Packages Within D Days](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/CapacityToShipPackagesWithinDDays.cpp) </br>
