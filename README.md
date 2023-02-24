@@ -53,3 +53,4 @@
 21/02/2023 [540. Single Element in a Sorted Array](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/SingleElementinaSortedArray.cpp) </br>
 22/02/2023 [1011. Capacity To Ship Packages Within D Days](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/CapacityToShipPackagesWithinDDays.cpp) </br>
 23/02/2023 [502. IPO](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/IPO.cpp) </br>
+24/02/2023 [1675. Minimize Deviation in Array](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/MinimizeDeviationinArray.cpp) </br>
