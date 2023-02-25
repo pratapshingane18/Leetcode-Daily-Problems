@@ -54,3 +54,4 @@
 22/02/2023 [1011. Capacity To Ship Packages Within D Days](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/CapacityToShipPackagesWithinDDays.cpp) </br>
 23/02/2023 [502. IPO](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/IPO.cpp) </br>
 24/02/2023 [1675. Minimize Deviation in Array](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/MinimizeDeviationinArray.cpp) </br>
+25/02/2023 [121. Best Time to Buy and Sell Stock](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/BestTimetoBuyandSellStock.cpp) </br>
