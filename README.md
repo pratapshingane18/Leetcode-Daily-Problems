@@ -58,3 +58,4 @@
 26/02/2023 [72. Edit Distance](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/EditDistance.cpp) </br>
 27/022023 [427. Construct Quad Tree](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/ConstructQuadTree.cpp) </br>
 28/02/2023 [652. Find Duplicate Subtrees](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/FindDuplicateSubtrees.cpp) </br>
+01/03/2023 [912. Sort an Array](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/SortanArray.cpp) </br>
