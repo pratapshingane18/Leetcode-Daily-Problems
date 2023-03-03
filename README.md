@@ -60,3 +60,4 @@
 28/02/2023 [652. Find Duplicate Subtrees](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/FindDuplicateSubtrees.cpp) </br>
 01/03/2023 [912. Sort an Array](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/SortanArray.cpp) </br>
 02/03/2023 [443. String Compression](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/StringCompression.cpp) </br>
+03/03/2023 [28. Find the Index of the First Occurrence in a String](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/FindtheIndexoftheFirstOccurrenceinaString.cpp) </br>
