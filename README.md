@@ -61,4 +61,4 @@
 01/03/2023 [912. Sort an Array](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/SortanArray.cpp) </br>
 02/03/2023 [443. String Compression](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/StringCompression.cpp) </br>
 03/03/2023 [28. Find the Index of the First Occurrence in a String](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/FindtheIndexoftheFirstOccurrenceinaString.cpp) </br>
-06/03/2023 
+06/03/2023 [2444. Count Subarrays With Fixed Bounds](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/CountSubarraysWithFixedBounds.cpp) </br>
