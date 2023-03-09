@@ -66,3 +66,4 @@
 06/03/2023 [1539. Kth Missing Positive Number](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/KthMissingPositiveNumber.cpp) </br>
 07/03/2023 [2187. Minimum Time to Complete Trips](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/MinimumTimetoCompleteTrips.cpp) </br>
 08/03/2023 [875. Koko Eating Bananas](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/KokoEatingBanana.cpp) </br>
+09/03/2023 [142. Linked List Cycle II](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/LinkedListCycleII.cpp) </br>
