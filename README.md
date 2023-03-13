@@ -69,5 +69,5 @@
 09/03/2023 [142. Linked List Cycle II](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/LinkedListCycleII.cpp) </br>
 10/03/2023 [382. Linked List Random Node](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/LinkedListRandomNode.cpp) </br>
 11/03/2023 [109. Convert Sorted List to Binary Search Tree](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Convert%20Sorted%20List%20to%20Binary%20Search%20Tree) </br>
-12/03/2023 []() </br>
+12/03/2023 [23. Merge k Sorted Lists](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/MergekSortedLists.cpp) </br>
 13/03/2023 [101. Symmetric Tree](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/SymmetricTree.cpp) </br>
