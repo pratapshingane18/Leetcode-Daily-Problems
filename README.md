@@ -72,3 +72,4 @@
 12/03/2023 [23. Merge k Sorted Lists](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/MergekSortedLists.cpp) </br>
 13/03/2023 [101. Symmetric Tree](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/SymmetricTree.cpp) </br>
 14/03/2023 [129. Sum Root to Leaf Numbers](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/SumRoottoLeafNumbers.cpp) </br>
+15/03/2023 [958. Check Completeness of a Binary Tree](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/CheckCompletenessofaBinaryTree.cpp) </br>
