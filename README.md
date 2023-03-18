@@ -75,3 +75,4 @@
 15/03/2023 [958. Check Completeness of a Binary Tree](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/CheckCompletenessofaBinaryTree.cpp) </br>
 16/03/2023 [106. Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/TreefromInorderaPostorderTraversal.cpp) </br>
 17/03/2023 [208. Implement Trie (Prefix Tree)](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/ImplementTrie(PrefixTree).cpp) </br>
+18/03/2023 [1472. Design Browser History](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/DesignBrowserHistory.cpp) </br>
