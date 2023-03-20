@@ -76,3 +76,5 @@
 16/03/2023 [106. Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/TreefromInorderaPostorderTraversal.cpp) </br>
 17/03/2023 [208. Implement Trie (Prefix Tree)](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/ImplementTrie(PrefixTree).cpp) </br>
 18/03/2023 [1472. Design Browser History](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/DesignBrowserHistory.cpp) </br>
+19/03/2023 [211. Design Add and Search Words Data Structure](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Design%20Add%20and%20Search%20Words%20Data%20Structure.cpp) </br>
+20/03/2023 [](
