@@ -80,3 +80,4 @@
 20/03/2023 [605. Can Place Flowers](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/CanPlaceFlowers.cpp) </br>
 21/03/2023 [2348. Number of Zero-Filled Subarrays](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/NumberofZeroFilledSubarrays.cpp) </br>
 22/03/2023 [2492. Minimum Score of a Path Between Two Cities](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/MinimumScoreofaPathBetweenTwoCities.cpp) </br>
+23/03/2023 [1319. Number of Operations to Make Network Connected](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Number%20of%20Operations%20to%20Make%20Network%20Connected.cpp) </br>
