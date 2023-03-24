@@ -81,3 +81,4 @@
 21/03/2023 [2348. Number of Zero-Filled Subarrays](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/NumberofZeroFilledSubarrays.cpp) </br>
 22/03/2023 [2492. Minimum Score of a Path Between Two Cities](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/MinimumScoreofaPathBetweenTwoCities.cpp) </br>
 23/03/2023 [1319. Number of Operations to Make Network Connected](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Number%20of%20Operations%20to%20Make%20Network%20Connected.cpp) </br>
+24/03/2023 [1466. Reorder Routes to Make All Paths Lead to the City Zero](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/reorder%20routes%20to%20make%20all%20paths%20lead%20to%20the%20city%20zero.cpp) </br>
