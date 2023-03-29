@@ -85,3 +85,5 @@
 25/03/2023 [2316. Count Unreachable Pairs of Nodes in an Undirected Graph](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Count%20Unreachable%20Pairs%20of%20Nodes%20in%20an%20Undirected%20Graph.cpp) </br>
 26/03/2023 [2360. Longest Cycle in a Graph](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/2360.%20Longest%20Cycle%20in%20a%20Graph.cpp) </br>
 27/03/2023 [64. Minimum Path Sum](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Minimum%20Path%20Sum.cpp) </br>
+28/03/2023 []
+29/03/2023 [1402. Reducing Dishes](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Reducing%20Dishes.cpp) </br>
