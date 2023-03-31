@@ -88,3 +88,4 @@
 28/03/2023 [983. Minimum Cost For Tickets](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Minimum%20Cost%20For%20Tickets.cpp) </br>
 29/03/2023 [1402. Reducing Dishes](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Reducing%20Dishes.cpp) </br>
 30/03/2023 [87. Scramble String](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Scramble%20String.cpp) </br>
+31/03/2023 [1444. Number of Ways of Cutting a Pizza](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Number%20of%20Ways%20of%20Cutting%20a%20Pizza.cpp) </br>
