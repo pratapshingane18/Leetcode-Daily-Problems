@@ -89,3 +89,4 @@
 29/03/2023 [1402. Reducing Dishes](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Reducing%20Dishes.cpp) </br>
 30/03/2023 [87. Scramble String](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Scramble%20String.cpp) </br>
 31/03/2023 [1444. Number of Ways of Cutting a Pizza](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Number%20of%20Ways%20of%20Cutting%20a%20Pizza.cpp) </br>
+01/04/2023 [704. Binary Search](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Binary%20Search.cpp) </br>
