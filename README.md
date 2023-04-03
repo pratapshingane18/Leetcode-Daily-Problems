@@ -91,3 +91,4 @@
 31/03/2023 [1444. Number of Ways of Cutting a Pizza](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Number%20of%20Ways%20of%20Cutting%20a%20Pizza.cpp) </br>
 01/04/2023 [704. Binary Search](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Binary%20Search.cpp) </br>
 02/04/2023 [2300. Successful Pairs of Spells and Potions](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/vSuccessful%20Pairs%20of%20Spells%20and%20Potions.cpp) </br>
+03/04/2023 [881. Boats to Save People](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Boats%20to%20Save%20People.cpp) </br>
