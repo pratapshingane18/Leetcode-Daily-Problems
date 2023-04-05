@@ -93,3 +93,4 @@
 02/04/2023 [2300. Successful Pairs of Spells and Potions](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/vSuccessful%20Pairs%20of%20Spells%20and%20Potions.cpp) </br>
 03/04/2023 [881. Boats to Save People](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Boats%20to%20Save%20People.cpp) </br>
 04/04/2023 [2405. Optimal Partition of String](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Optimal%20Partition%20of%20String.cpp) </br>
+05/04/2023 [2439. Minimize Maximum of Array](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Minimize%20Maximum%20of%20Array.cpp) </br>
