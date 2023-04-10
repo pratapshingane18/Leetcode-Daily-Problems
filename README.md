@@ -98,3 +98,4 @@
 07/04/2023 [1020. Number of Enclaves](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Number%20of%20Enclaves.cpp) </br>
 08/04/2023 [133. Clone Graph](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/CloneGraph.cpp) </br>
 09/04/2023 [1857. Largest Color Value in a Directed Graph](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Largest%20Color%20Value%20in%20a%20Directed%20Graph.cpp) </br>
+10/04/2023 [20. Valid Parentheses](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Valid%20Parentheses.cpp) </br>
