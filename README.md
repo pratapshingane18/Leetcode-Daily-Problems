@@ -100,3 +100,4 @@
 09/04/2023 [1857. Largest Color Value in a Directed Graph](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Largest%20Color%20Value%20in%20a%20Directed%20Graph.cpp) </br>
 10/04/2023 [20. Valid Parentheses](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Valid%20Parentheses.cpp) </br>
 11/04/2023 [2390. Removing Stars From a String](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Removing%20Stars%20From%20a%20String.cpp) </br>
+12/04/2023 [71. Simplify Path](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Simplify%20Path.cpp) </br>
