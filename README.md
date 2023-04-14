@@ -102,3 +102,4 @@
 11/04/2023 [2390. Removing Stars From a String](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Removing%20Stars%20From%20a%20String.cpp) </br>
 12/04/2023 [71. Simplify Path](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Simplify%20Path.cpp) </br>
 13/04/2023 [946. Validate Stack Sequences](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Validate%20Stack%20Sequences.cpp) </br>
+14/04/2023 [516. Longest Palindromic Subsequence](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Longest%20Palindromic%20Subsequence.cpp) </br>
