@@ -103,3 +103,4 @@
 12/04/2023 [71. Simplify Path](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Simplify%20Path.cpp) </br>
 13/04/2023 [946. Validate Stack Sequences](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Validate%20Stack%20Sequences.cpp) </br>
 14/04/2023 [516. Longest Palindromic Subsequence](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Longest%20Palindromic%20Subsequence.cpp) </br>
+15/04/2023 [2218. Maximum Value of K Coins From Piles](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Maximum%20Value%20of%20K%20Coins%20From%20Piles.CPP) </br>
