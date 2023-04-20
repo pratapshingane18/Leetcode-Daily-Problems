@@ -108,3 +108,4 @@
 17/04/2023 [1431. Kids With the Greatest Number of Candies](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Kids%20With%20the%20Greatest%20Number%20of%20Candies.cpp) </br>
 18/04/2023 [1768. Merge Strings Alternately](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Merge%20Strings%20Alternately.cpp) </br>
 19/04/2023 [1372. Longest ZigZag Path in a Binary Tree](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Longest%20ZigZag%20Path%20in%20a%20Binary%20Tree.cpp) </br>
+20/04/2023 [662. Maximum Width of Binary Tree](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Maximum%20Width%20of%20Binary%20Tree.cpp) </br>
