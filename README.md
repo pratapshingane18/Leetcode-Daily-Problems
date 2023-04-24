@@ -111,3 +111,4 @@
 20/04/2023 [662. Maximum Width of Binary Tree](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Maximum%20Width%20of%20Binary%20Tree.cpp) </br>
 21/04/2023 [879. Profitable Schemes](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Profitable%20Schemes.cpp) </br>
 22/04/2023 [1312. Minimum Insertion Steps to Make a String Palindrome](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Minimum%20Insertion%20Steps%20to%20Make%20a%20String%20Palindrome.cpp) </br>
+23/04/2023 [1416. Restore The Array](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Restore%20The%20Array.cpp) </br>
