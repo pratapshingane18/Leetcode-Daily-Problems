@@ -112,3 +112,4 @@
 21/04/2023 [879. Profitable Schemes](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Profitable%20Schemes.cpp) </br>
 22/04/2023 [1312. Minimum Insertion Steps to Make a String Palindrome](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Minimum%20Insertion%20Steps%20to%20Make%20a%20String%20Palindrome.cpp) </br>
 23/04/2023 [1416. Restore The Array](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Restore%20The%20Array.cpp) </br>
+24/04/2023 [1046. Last Stone Weight](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Last%20Stone%20Weight.cpp) </br>
