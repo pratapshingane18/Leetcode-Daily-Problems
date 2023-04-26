@@ -114,3 +114,4 @@
 23/04/2023 [1416. Restore The Array](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Restore%20The%20Array.cpp) </br>
 24/04/2023 [1046. Last Stone Weight](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Last%20Stone%20Weight.cpp) </br>
 25/04/2023 [2336. Smallest Number in Infinite Set](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Smallest%20Number%20in%20Infinite%20Set.cpp) </br>
+26/04/2023 [258. Add Digits](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Add%20Digits.cpp) </br>
