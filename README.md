@@ -118,3 +118,4 @@
 27/04/2023 [319. Bulb Switcher](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Bulb%20Switcher.cpp) </br>
 28/04/2023 [839. Similar String Groups](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Similar%20String%20Groups.cpp) </br>
 29/04/2023 [1697. Checking Existence of Edge Length Limited Paths](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Checking%20Existence%20of%20Edge%20Length%20Limited%20Paths.cpp) </br>
+30/04/2023 [1579. Remove Max Number of Edges to Keep Graph Fully Traversable](https://github.com/pratapshingane18/Leetcode-Daily-Problems/blob/main/Remove%20Max%20Number%20of%20Edges%20to%20Keep%20Graph%20Fully%20Traversable.cpp) </br>
